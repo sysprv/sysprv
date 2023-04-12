@@ -1,4 +1,4 @@
-# Hi I'm Ishan
+# Hi.
 
 Keywords: 80s, usenet, unix, lisp, literature, poetry, art, films, pockets,
 eastern europe
